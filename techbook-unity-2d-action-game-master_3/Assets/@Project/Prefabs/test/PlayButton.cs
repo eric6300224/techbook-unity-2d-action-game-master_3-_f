@@ -9,19 +9,16 @@ public class PlayButton : MonoBehaviour, IPointerEnterHandler
 
     private void Start()
     {
-        print("1");
         pb = GetComponent<Button>();
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        print("1");
-        throw new System.NotImplementedException();
+
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        print("2");
-        throw new System.NotImplementedException();
+
     }
 }
