@@ -1388,6 +1388,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 365543672170008728, guid: 56972c9a4e5412443ba6a5204022361d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8316375347767785597, guid: 56972c9a4e5412443ba6a5204022361d,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1840386762}
+    - target: {fileID: 8316375347767785597, guid: 56972c9a4e5412443ba6a5204022361d,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Quit_Game
+      objectReference: {fileID: 0}
     - target: {fileID: 8460049978165586253, guid: 56972c9a4e5412443ba6a5204022361d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
